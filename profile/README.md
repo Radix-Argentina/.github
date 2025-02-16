@@ -1,5 +1,5 @@
 # Radix Web Argentina
-Bienvenido a la organización en GitHub oficial de Radix 🧑🏻‍💻, una empresa dedicada al desarrollo de aplicaciones web para PyMEs y emprendedores.
+Bienvenido a la organización oficial en GitHub de Radix 🧑🏻‍💻, una empresa dedicada al desarrollo de aplicaciones web para PyMEs y emprendedores.
 
 ## 💻 Quiénes Somos
 Somos un equipo de profesionales apasionados por la programación. Nuestro objetivo es ayudar a nuestros clientes a crecer mediante soluciones innovadoras y personalizadas en desarrollo web y marketing en redes sociales.
